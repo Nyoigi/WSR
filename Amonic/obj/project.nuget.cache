@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0TrPZmxeBf4RwDSSgojctWtJnIkfXg3FSQlHJJ/4fXQA0dtRUUKTP8k63TxQdBuv2RQhIFqeSK3ILsXkjjKDEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\Сессия 1\\Amonic\\Amonic\\Amonic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\bootstrap\\5.2.3\\bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
